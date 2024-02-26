@@ -50,7 +50,7 @@
 - *How can you deal with duplicate data points in an SQL query?
 - What are the different types of Normalization?
 - What is the difference between View and Materialized View?
-# Data Warehouse:
+# Data Warehouse
 
 - What is a Datawarehouse?
 - What is OLTP, OLAP?
