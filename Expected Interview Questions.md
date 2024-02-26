@@ -1,0 +1,77 @@
+> [!Source]
+>  https://twitter.com/MrQ1958/status/1745132577948565591
+# Business Intelligence, Data Analyst, Data Engineer
+- What is DBMS?
+- What is RDBMS? How is it different from DBMS?
+- What is the difference between SQL and MySQL?
+- What is (DDL), (DML), (DCL)?
+- What types of SQL commands (or SQL subsets) do you know?
+- What is SQL?
+- What is ER Diagram?
+- What are Constraints in SQL?
+- What is the ACID property in a database?
+- What is a Primary Key, UNIQUE constraint, Foreign Key?
+- What is a composite primary key?
+- What is the difference between primary key and unique constraints?
+- What types of SQL operators do you know?
+- What is a clause?
+- How to update a table?
+- How to delete a table from a database?
+- How to add a column to a table?
+- How to sort records in a table?
+- What is the DISTINCT statement?
+- What is a Join?
+- What is a Self-Join?
+- What is a Cross-Join?
+- What is an ALIAS command?
+- *What is a Subquery? What are its types?
+- What are UNION, MINUS and INTERSECT commands?
+- *What is Cursor?
+- What are Entities and Relationships?
+- List the different types of relationships in SQL?
+- What is a View?
+- What are the TRUNCATE, DELETE and DROP statements?
+- What is the difference between DROP and TRUNCATE statements?
+- What is the difference between DELETE and TRUNCATE statements?
+- What is the difference between BETWEEN and IN operators in SQL?
+- What is the difference between 'HAVING' CLAUSE and a 'WHERE' CLAUSE?
+- *Types of T-SQL functions?
+- What is Auto Increment?
+- *What is Normalization?
+- *What is Denormalization?
+- *What is an Index?
+- *What is the difference between Clustered and Non-clustered index?
+- *What are Aggregate and Scalar functions?
+- *What is a Stored Procedure?
+- *What are all types of user-defined functions?
+- *What is a trigger?
+- *What is the need for a MERGE statement?
+- *What is the difference between COALESCE() & ISNULL()?
+- *How can you deal with duplicate data points in an SQL query?
+- What are the different types of Normalization?
+- What is the difference between View and Materialized View?
+# Data Warehouse:
+
+- What is a Datawarehouse?
+- What is OLTP, OLAP?
+- What are the differences between OLTP and OLAP?
+- What is the difference between ER Modeling vs. Dimensional Modeling?
+- What is called Dimensional Modeling?
+- What is ETL & ELT?
+- What is Business Intelligence?
+- What is Dimension Table?
+- What is a Fact? What are the types of Facts?
+- What are the different types of data warehousing?
+- What are the stages of Data warehousing?
+- What is Datamart?
+- What is SCD (Slowly Changing Dimension)?
+- What are the types of SCD?
+- What is Star Schema?
+- What is Snowflake Schema?
+- What do you understand by ODS (Operational Data Store)?
+- What are the key characteristics of a Data Warehouse?
+- *What is the definition of Cube in Data warehousing?
+- *What are the types of Dimensional Modeling?
+- *What is a Conformed Fact?
+- *What are Non-additive Facts?
+- *What is the Junk Dimension?
