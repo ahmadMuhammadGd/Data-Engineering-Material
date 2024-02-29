@@ -1,3 +1,4 @@
+# What is a Data Warehouse (DWH)?
 A system that retries and collects data periodically from a source system into a dimensional data store DDS, in a different format.
 # DWH main components
 `Source Data` => `ETL` => `DDS`
